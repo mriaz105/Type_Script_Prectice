@@ -33,6 +33,7 @@ let reminder:number=num1%num2;
 // = is used to assign a value to a variable
 let Marks:number=23;
 let UserName:string="Muhammad Riaz";
-
+// exponent (raise to power ^)
+var exponent = 2 ** 5;
 
 
